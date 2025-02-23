@@ -1,1 +1,1 @@
-This is the first COMP3111 Lab. ![img_1.png](img_1.png)
+This is the first COMP3111 Lab.![img.png](img.png)
